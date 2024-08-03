@@ -4,11 +4,6 @@
 - 🐧 QQ：2452559902
 - 🌈 努力学习的前端开发！
 
- ## 今年汇总
-<span> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=chen-ziwen&hide_title=true&show_icons=trueline_height=21&bg_color=ffffff" />
-</span>
-<span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chen-ziwen&hide_title=true&hide=html,css&layout=compact&bg_color=ffffff" /></span>
-
 
 
 
