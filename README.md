@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0EE2F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+chiko;Welcome+to+my+little+home" />
-</div>
-
----
-
 ### 关于我
 
 - 👋 Hi，我是 Chiko
