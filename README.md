@@ -13,7 +13,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,webpack,vite,electron,tailwind" />
 
-#### 后端与全栈
+#### 后端技术栈
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,sqlite" />
 
