@@ -7,13 +7,13 @@
 
 ---
 
-### 🛠️ 技术栈与工具
+### 🛠️ 技术栈
 
-#### 前端技术栈
+#### 前端
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,webpack,vite,electron,tailwind" />
 
-#### 后端技术栈
+#### 后端
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,sqlite" />
 
